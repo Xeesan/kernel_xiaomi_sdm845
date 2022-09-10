@@ -427,7 +427,8 @@ CONFIG_PCI_MSM=y
 
 #
 # Kernel Features
-#
+# DTS
+CONFIG_AINUR_DTS_SW=y
 
 #
 # ARM errata workarounds via the alternatives framework
